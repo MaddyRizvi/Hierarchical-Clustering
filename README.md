@@ -47,7 +47,12 @@ pip install numpy pandas matplotlib scikit-learn scipy
 ## 📈 Output
 
 - A **dendrogram** to determine the optimal number of clusters.
+  
+  ![Image](https://github.com/user-attachments/assets/67448c22-31fe-496a-9829-a11b85c07238)
+
 - A **scatter plot** displaying customer segments based on hierarchical clustering.
+
+  ![Image](https://github.com/user-attachments/assets/a942662d-182e-4686-8c4b-ee1fc19dd63a)
 
 ## 📌 Clustering Details
 
