@@ -1,6 +1,6 @@
 # Mall Customers Segmentation using Hierarchical Clustering
 
-This project implements **Hierarchical Clustering** on the **Mall Customers dataset** to segment customers based on their **Annual Income** and **Spending Score**.
+This project implements **Hierarchical Clustering** on the **Mall Customers dataset** to segment customers based on their **Annual Income** and **Spending Score**. **This project can be easily adapted to work with other datasets** containing different or additional independent variables.
 
 ## 📊 Dataset
 
@@ -16,7 +16,7 @@ The dataset used is `Mall_Customers.csv`, which contains information about:
 
 ```
 ├── Mall_Customers.csv
-├── clustering.py            # Python script for hierarchical clustering
+├── hierarchical_clustering.py            # Python script for hierarchical clustering
 ├── README.md
 └── CONTRIBUTING.md
 ```
@@ -33,8 +33,8 @@ pip install numpy pandas matplotlib scikit-learn scipy
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hierarchical-clustering.git
-   cd hierarchical-clustering
+   git clone https://github.com/MaddyRizvi/Hierarchical-Clustering.git
+   cd Hierarchical-Clustering
    ```
 
 2. Make sure the `Mall_Customers.csv` file is present in the project directory.
